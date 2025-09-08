@@ -16,7 +16,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center text-center mt-16">
       <h1 className="text-4xl font-bold mb-4">Find Your Favorite Recipes</h1>
       <p className="text-gray-600 mb-6">
-        Search from thousands of delicious recipes 
+        Search from thousands of delicious recipes by Umair's foods.
       </p>
       <form
         onSubmit={handleSearch}
